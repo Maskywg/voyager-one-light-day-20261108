@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "source": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/voyager/images/1_Voyager_artist_concept.jpg?w=2000",
+    "credit": "NASA/JPL-Caltech，探測器藝術想像圖"
+  },
+  "spacecraft": {
+    "source": "https://science.nasa.gov/wp-content/uploads/2024/04/spacecraft-profile.jpg",
+    "credit": "NASA/JPL-Caltech，探測器檔案照片"
+  },
+  "assembly": {
+    "source": "https://science.nasa.gov/wp-content/uploads/2024/04/pia21479.jpg",
+    "credit": "NASA/JPL-Caltech，工程師組裝高增益天線"
+  },
+  "testing": {
+    "source": "https://science.nasa.gov/wp-content/uploads/2024/04/pia21737.jpg",
+    "credit": "NASA/JPL-Caltech，太空環境測試"
+  },
+  "launch": {
+    "source": "https://science.nasa.gov/wp-content/uploads/2024/04/pia21739.jpg",
+    "credit": "NASA/JPL-Caltech，航海家一號運載火箭於發射場"
+  },
+  "jupiter": {
+    "source": "https://science.nasa.gov/wp-content/uploads/2024/04/pia01324.jpg",
+    "credit": "NASA/JPL，Voyager 1，1979-03-24，PIA01324"
+  },
+  "saturn": {
+    "source": "https://images-assets.nasa.gov/image/PIA00024/PIA00024~orig.jpg",
+    "credit": "NASA/JPL，Voyager 1，1980-11-03，PIA00024"
+  },
+  "pale-blue-dot": {
+    "source": "https://science.nasa.gov/wp-content/uploads/2024/04/pale-blue-dot-revised.jpg",
+    "credit": "NASA/JPL-Caltech，1990 年拍攝，2020 年重新處理"
+  },
+  "golden-record": {
+    "source": "https://science.nasa.gov/wp-content/uploads/2024/03/voyager-gold-record-front.jpg",
+    "credit": "NASA/JPL-Caltech，黃金唱片"
+  },
+  "record-cover": {
+    "source": "https://science.nasa.gov/wp-content/uploads/2024/03/voyager-golden-record-cover.jpg",
+    "credit": "NASA/JPL-Caltech，黃金唱片封套"
+  }
+}
